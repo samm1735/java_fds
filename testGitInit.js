@@ -1,1 +1,1 @@
-console.log("GIT INIT TESTING FROM TERMUX && NANO");
+console.log("GIT INIT TESTING FROM TERMUX && NANO -- BRANCH2");
